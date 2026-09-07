@@ -1,4 +1,4 @@
-# crucket analyst 
+# cricket analyst 
 welcome to my cricket analytucs journey !
 
 ## About 
